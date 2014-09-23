@@ -1,0 +1,38 @@
+PULSE Frequently Asked Questions:
+
+Q: I have finished the game, how can I reset my score?
+
+A: You can reset your score by opening your save.dat file, note that when you open the file, 
+there will be quite a lot of unsupported text, this is completely normal, all you have to do 
+is just simply highlight all the text (Ctrl + A for Windows Users) and delete it (backspace), 
+and then just restart the game, and you will be able to start from scratch!
+
+Please do NOT delete the save.dat, as this will mess up the program. If you accidentally delete
+the file, please refer to the How can I email you question? Or, you can use our support desk located
+at http://pixelcoders.freshdesk.com and we will send you a new save.dat file!
+
+Q: Where can I report bugs?
+
+A: You can report bugs within our games at http://pixelcoders.freshdesk.com, pleae make sure that 
+you use a VALID email address, as your bug report will more then likley require an email response, 
+whether it be that your bug has been fixed, a reply asking for more information on replicating it,
+or anything else if the matter arises.
+
+Q: How often do new versions come out?
+
+A: We're quite busy, so they'd come out once per month (roughly!)
+
+Q: How can I email you?
+
+A: We do not currently have any email addresses that we have registered, so please contact us on 
+http://pixelcoders.freshdesk.com with any questions that you have.
+
+Q: Do you guys have a website that I can visit?
+
+A: Yes! We do, it's located at http://pixelcoders.url.ph (it's a question and answer website about all things
+to do with programming, kind of like StackOverflow).
+
+Q: Can I help with the development of your games?
+
+A: If for some crazy reason you wish to help, then submit a ticket on our website, which you can find plastered
+in the above questions. 
